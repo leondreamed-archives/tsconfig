@@ -19,7 +19,7 @@
 		"newLine": "lf",
 		"stripInternal": true,
 		"strict": true,
-    		"strictPropertyInitialization": false,
+		"strictPropertyInitialization": false,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true,
@@ -27,7 +27,8 @@
 		"noPropertyAccessFromIndexSignature": true,
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
+		"useUnknownInCatchVariables": true,
 		"forceConsistentCasingInFileNames": true,
-		"skipLibCheck": true,
+		"skipLibCheck": true
 	}
 }
