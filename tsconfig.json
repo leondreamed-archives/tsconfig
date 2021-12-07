@@ -29,7 +29,7 @@
 		"noPropertyAccessFromIndexSignature": true,
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
-		"foreConsistentCasingInFileNames": true,
+		"forceConsistentCasingInFileNames": true,
 		"skipLibCheck": true
 	}
 }
