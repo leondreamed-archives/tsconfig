@@ -1,0 +1,9 @@
+{
+  "name": "@leonzalion/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for my projects.",
+  "main": "tsconfig.json",
+  "files": [
+	  "tsconfig.json"
+  ]
+}
