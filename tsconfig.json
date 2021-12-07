@@ -1,4 +1,3 @@
-// Basically https://github.com/sindresorhus/tsconfig without "jsx": "react" and "esModuleInterop": true
 {
 	"compilerOptions": {
 		// Disabled because of https://github.com/Microsoft/TypeScript/issues/29172
@@ -20,8 +19,7 @@
 		"newLine": "lf",
 		"stripInternal": true,
 		"strict": true,
-		"noImplicitReturns": true,
-		"noImplicitOverride": true,
+    		"strictPropertyInitialization": false,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true,
 		"noFallthroughCasesInSwitch": true,
@@ -30,6 +28,6 @@
 		"noEmitOnError": true,
 		"useDefineForClassFields": true,
 		"forceConsistentCasingInFileNames": true,
-		"skipLibCheck": true
+		"skipLibCheck": true,
 	}
 }
