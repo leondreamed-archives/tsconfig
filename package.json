@@ -1,6 +1,6 @@
 {
   "name": "@leonzalion/tsconfig",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Shared TypeScript config for my projects.",
   "main": "tsconfig.json",
   "files": [
