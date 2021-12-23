@@ -1,10 +1,11 @@
 {
   "name": "@leonzalion/tsconfig",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Shared TypeScript config for my projects.",
   "main": "tsconfig.json",
   "files": [
-    "tsconfig.json"
+    "tsconfig.json",
+    "loader.js"
   ],
   "dependencies": {
     "ts-node": "^10.4.0",
